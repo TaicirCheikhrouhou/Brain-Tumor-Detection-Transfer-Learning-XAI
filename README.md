@@ -85,16 +85,13 @@ pip install -r requirements.txt
 ## Future Improvements
 
 - Hyperparameter tuning.
-- Ensemble methods.
 - Deployment as a web application.
 
-## References
-
-- MobileNetV2: https://arxiv.org/abs/1801.04381
-- Grad-CAM: https://arxiv.org/abs/1610.02391
-- LIME: https://arxiv.org/abs/1602.04938
-- SHAP: https://arxiv.org/abs/1705.07874
-
 ## License
+This project is for educational purposes. 
 
-This project is for educational purposes. Please cite the original dataset and papers if used in research.
+## Author
+
+**Taicir Cheikhrouhou**  
+- GitHub: [TaicirCheikhrouhou](https://github.com/TaicirCheikhrouhou)
+- LinkedIn: [https://www.linkedin.com/in/taicir-cheikhrouhou/](https://www.linkedin.com/in/cheikhrouhou-taicir/)
